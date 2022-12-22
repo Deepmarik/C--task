@@ -16,7 +16,7 @@ else
 {
     max = b;
     Console.WriteLine(max);
-}
+};
 
 /*Задача 4: Напишите программу, которая принимает на вход три числа и выдаёт максимальное из этих чисел.
 
@@ -31,7 +31,7 @@ int max4;
 max4 = aa;
 if (max4 > bb && max4 > c)
 {
-     Console.WriteLine(max4); 
+    Console.WriteLine(max4);
 }
 else
 {
@@ -44,7 +44,8 @@ else
     {
         max4 = c;
         Console.WriteLine(max4);
-    }}
+    }
+};
 
 /*Задача 6: Напишите программу, которая на вход принимает число и выдаёт, является ли число чётным (делится ли оно на два без остатка).
 
@@ -53,8 +54,25 @@ else
 7 -> нет*/
 Console.WriteLine("Задача 6");
 int even = int.Parse(Console.ReadLine()!);
-if (even % 2 == 0){
+if (even % 2 == 0)
+{
     Console.WriteLine("четное");
-} else {
+}
+else
+{
     Console.WriteLine("нечетное");
+};
+
+/*Задача 8: Напишите программу, которая на вход принимает число (N), а на выходе показывает все чётные числа от 1 до N.
+
+5 -> 2, 4
+8 -> 2, 4, 6, 8*/
+Console.WriteLine("Задача 8");
+int N = int.Parse(Console.ReadLine()!);
+for (int i = 1; i < N; i++)
+{
+    if (i % 2 == 0)
+    {
+        Console.WriteLine(i);
+    }
 };
