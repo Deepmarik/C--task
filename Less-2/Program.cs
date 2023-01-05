@@ -17,12 +17,19 @@ int Digit = int.Parse(Console.ReadLine()!);
 int Remainder = (Digit / 10) % 10;
 Console.WriteLine(Remainder);
 
-
-
-/*int ci = 12398;
-string ac = ci.ToString();
-int[] arrInt = new int[ac.Length];
-for(int n = 0; n < ac.Length; ++n){ 
-  arrInt[n] = int.Parse(ac[n]+ "");
-  }*/
+/*Задача 13: Напишите программу, которая выводит третью цифру заданного числа или сообщает, что третьей цифры нет.
+645 -> 5
+78 -> третьей цифры нет
+32679 -> 6*/
+Console.WriteLine("Задача 13");
+int Num13 = int.Parse(Console.ReadLine()!);
+string Str13 = Convert.ToString(Num13);
+char[] arr13 = Str13.ToCharArray();
+Console.WriteLine();
+int index = arr13.Length;
+if (arr13.Length < 3)
+{
+    Console.WriteLine("третьей цифры нет");
+}
+else { Console.WriteLine(arr13[2]); }
 
