@@ -1,24 +1,21 @@
-﻿/*Console.WriteLine("Задача 8");
-int N = int.Parse(Console.ReadLine()!);
-for (int i = 1; i <= N; i++)
-{
-    if (i % 2 == 0)
-    {
-        Console.WriteLine(i);
-    }
-};*/
-/*Задача 10: Напишите программу, которая принимает на вход трёхзначное число и на выходе показывает вторую цифру этого числа.
+﻿/*Задача 10: Напишите программу, которая принимает на вход трёхзначное число и на выходе показывает вторую цифру этого числа.
 
 456 -> 5
 782 -> 8
 918 -> 1*/
-Console.WriteLine("Задача 10");
+Console.WriteLine("Задача 10 - первый вариант");
 //string Num = Console.ReadLine()!;
-
+// решение 
 int Num = int.Parse(Console.ReadLine()!);
-string Digit = Convert.ToString(Num);
-char [] arr = Digit.ToCharArray();
+string Str = Convert.ToString(Num);
+char[] arr = Str.ToCharArray();
 Console.WriteLine(arr[1]);
+Console.WriteLine();
+//второй способ
+Console.WriteLine("Задача 10- второй вариант\n");
+int Digit = int.Parse(Console.ReadLine()!);
+int Remainder = (Digit / 10) % 10;
+Console.WriteLine(Remainder);
 
 
 
