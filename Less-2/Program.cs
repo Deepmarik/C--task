@@ -33,3 +33,15 @@ if (arr13.Length < 3)
 }
 else { Console.WriteLine(arr13[2]); }
 
+/*Задача 15: Напишите программу, которая принимает на вход цифру, обозначающую день недели, и проверяет, является ли этот день выходным.
+6 -> да
+7 -> да
+1 -> нет*/
+Console.WriteLine("Задача 15");
+int NumDay = int.Parse(Console.ReadLine()!);
+string[] DayOfWeek = { "Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday", "Sunday" };
+if (NumDay - 1 == 5 || NumDay - 1 == 6)
+{
+    Console.WriteLine("Выходной" + " " + DayOfWeek[NumDay - 1]);
+}
+else { Console.WriteLine("Будний день" + " " + DayOfWeek[NumDay - 1]); }
