@@ -9,15 +9,14 @@ for (int i = 1; i <= number; i++)
     Console.WriteLine(pow_num);
 };*/
 //
-double NumThrePow(int digit)
+double NumThrePow(int number)
 {
-    for (int i = 1; i <= digit; i++)
+    for (int i = 1; i <= number; i++)
     {
         double pow_num = Math.Pow(i, 3);
         return pow_num;
-        
     }
 };
 Console.WriteLine(NumThrePow(3));
-/*Клим скажите пожалуйста, та часть закоменнтированная работает. Пытаюсь завренуть все это в метод, вылезает куча ошибок.
+/*Клим скажите пожалуйста, та часть закоменнтированная работает. Пытаюсь завернуть все это в метод, вылезает куча ошибок.
 как их устранить, где ошибаюсь? */
