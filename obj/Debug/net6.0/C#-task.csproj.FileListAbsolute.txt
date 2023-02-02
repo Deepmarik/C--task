@@ -1,5 +1,0 @@
-W:\III-trimestre\C#-task\obj\Debug\net6.0\C#-task.csproj.AssemblyReference.cache
-W:\III-trimestre\C#-task\obj\Debug\net6.0\C#-task.GeneratedMSBuildEditorConfig.editorconfig
-W:\III-trimestre\C#-task\obj\Debug\net6.0\C#-task.AssemblyInfoInputs.cache
-W:\III-trimestre\C#-task\obj\Debug\net6.0\C#-task.AssemblyInfo.cs
-W:\III-trimestre\C#-task\obj\Debug\net6.0\C#-task.csproj.CoreCompileInputs.cache

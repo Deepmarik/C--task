@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "W:\\III-trimestre\\C#-task\\C#-task.csproj",
-      "projectName": "C#-task",
-      "projectPath": "W:\\III-trimestre\\C#-task\\C#-task.csproj",
+      "projectUniqueName": "W:\\III-trimestre\\C#-task\\Less-5\\Less-5.36\\Less-5.36.csproj",
+      "projectName": "Less-5.36",
+      "projectPath": "W:\\III-trimestre\\C#-task\\Less-5\\Less-5.36\\Less-5.36.csproj",
       "packagesPath": "C:\\Users\\Deepmarik\\.nuget\\packages\\",
-      "outputPath": "W:\\III-trimestre\\C#-task\\obj\\",
+      "outputPath": "W:\\III-trimestre\\C#-task\\Less-5\\Less-5.36\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Deepmarik\\AppData\\Roaming\\NuGet\\NuGet.Config"
