@@ -14,7 +14,7 @@ int[] FillArray(int lenght, int minValue, int maxValue)
             sum += arr[i];
         }
     };
-    Console.WriteLine($"Сумма четных: {sum}");
+    Console.WriteLine();
     return arr;
 };
 void PrintArray(int[] array)
