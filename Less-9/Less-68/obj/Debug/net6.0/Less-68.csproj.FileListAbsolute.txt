@@ -1,0 +1,15 @@
+W:\III-trimestre\C#-task\Less-9\Less-68\bin\Debug\net6.0\Less-68.exe
+W:\III-trimestre\C#-task\Less-9\Less-68\bin\Debug\net6.0\Less-68.deps.json
+W:\III-trimestre\C#-task\Less-9\Less-68\bin\Debug\net6.0\Less-68.runtimeconfig.json
+W:\III-trimestre\C#-task\Less-9\Less-68\bin\Debug\net6.0\Less-68.dll
+W:\III-trimestre\C#-task\Less-9\Less-68\bin\Debug\net6.0\Less-68.pdb
+W:\III-trimestre\C#-task\Less-9\Less-68\obj\Debug\net6.0\Less-68.csproj.AssemblyReference.cache
+W:\III-trimestre\C#-task\Less-9\Less-68\obj\Debug\net6.0\Less-68.GeneratedMSBuildEditorConfig.editorconfig
+W:\III-trimestre\C#-task\Less-9\Less-68\obj\Debug\net6.0\Less-68.AssemblyInfoInputs.cache
+W:\III-trimestre\C#-task\Less-9\Less-68\obj\Debug\net6.0\Less-68.AssemblyInfo.cs
+W:\III-trimestre\C#-task\Less-9\Less-68\obj\Debug\net6.0\Less-68.csproj.CoreCompileInputs.cache
+W:\III-trimestre\C#-task\Less-9\Less-68\obj\Debug\net6.0\Less-68.dll
+W:\III-trimestre\C#-task\Less-9\Less-68\obj\Debug\net6.0\refint\Less-68.dll
+W:\III-trimestre\C#-task\Less-9\Less-68\obj\Debug\net6.0\Less-68.pdb
+W:\III-trimestre\C#-task\Less-9\Less-68\obj\Debug\net6.0\Less-68.genruntimeconfig.cache
+W:\III-trimestre\C#-task\Less-9\Less-68\obj\Debug\net6.0\ref\Less-68.dll
