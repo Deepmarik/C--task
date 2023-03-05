@@ -1,0 +1,15 @@
+W:\III-trimestre\C#-task\Task66\bin\Debug\net6.0\Task66.exe
+W:\III-trimestre\C#-task\Task66\bin\Debug\net6.0\Task66.deps.json
+W:\III-trimestre\C#-task\Task66\bin\Debug\net6.0\Task66.runtimeconfig.json
+W:\III-trimestre\C#-task\Task66\bin\Debug\net6.0\Task66.dll
+W:\III-trimestre\C#-task\Task66\bin\Debug\net6.0\Task66.pdb
+W:\III-trimestre\C#-task\Task66\obj\Debug\net6.0\Task66.csproj.AssemblyReference.cache
+W:\III-trimestre\C#-task\Task66\obj\Debug\net6.0\Task66.GeneratedMSBuildEditorConfig.editorconfig
+W:\III-trimestre\C#-task\Task66\obj\Debug\net6.0\Task66.AssemblyInfoInputs.cache
+W:\III-trimestre\C#-task\Task66\obj\Debug\net6.0\Task66.AssemblyInfo.cs
+W:\III-trimestre\C#-task\Task66\obj\Debug\net6.0\Task66.csproj.CoreCompileInputs.cache
+W:\III-trimestre\C#-task\Task66\obj\Debug\net6.0\Task66.dll
+W:\III-trimestre\C#-task\Task66\obj\Debug\net6.0\refint\Task66.dll
+W:\III-trimestre\C#-task\Task66\obj\Debug\net6.0\Task66.pdb
+W:\III-trimestre\C#-task\Task66\obj\Debug\net6.0\Task66.genruntimeconfig.cache
+W:\III-trimestre\C#-task\Task66\obj\Debug\net6.0\ref\Task66.dll
