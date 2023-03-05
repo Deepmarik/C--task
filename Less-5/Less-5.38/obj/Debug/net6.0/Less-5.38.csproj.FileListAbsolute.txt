@@ -1,0 +1,15 @@
+W:\III-trimestre\C#-task\Less-5\Less-5.38\bin\Debug\net6.0\Less-5.38.exe
+W:\III-trimestre\C#-task\Less-5\Less-5.38\bin\Debug\net6.0\Less-5.38.deps.json
+W:\III-trimestre\C#-task\Less-5\Less-5.38\bin\Debug\net6.0\Less-5.38.runtimeconfig.json
+W:\III-trimestre\C#-task\Less-5\Less-5.38\bin\Debug\net6.0\Less-5.38.dll
+W:\III-trimestre\C#-task\Less-5\Less-5.38\bin\Debug\net6.0\Less-5.38.pdb
+W:\III-trimestre\C#-task\Less-5\Less-5.38\obj\Debug\net6.0\Less-5.38.csproj.AssemblyReference.cache
+W:\III-trimestre\C#-task\Less-5\Less-5.38\obj\Debug\net6.0\Less-5.38.GeneratedMSBuildEditorConfig.editorconfig
+W:\III-trimestre\C#-task\Less-5\Less-5.38\obj\Debug\net6.0\Less-5.38.AssemblyInfoInputs.cache
+W:\III-trimestre\C#-task\Less-5\Less-5.38\obj\Debug\net6.0\Less-5.38.AssemblyInfo.cs
+W:\III-trimestre\C#-task\Less-5\Less-5.38\obj\Debug\net6.0\Less-5.38.csproj.CoreCompileInputs.cache
+W:\III-trimestre\C#-task\Less-5\Less-5.38\obj\Debug\net6.0\Less-5.38.dll
+W:\III-trimestre\C#-task\Less-5\Less-5.38\obj\Debug\net6.0\refint\Less-5.38.dll
+W:\III-trimestre\C#-task\Less-5\Less-5.38\obj\Debug\net6.0\Less-5.38.pdb
+W:\III-trimestre\C#-task\Less-5\Less-5.38\obj\Debug\net6.0\Less-5.38.genruntimeconfig.cache
+W:\III-trimestre\C#-task\Less-5\Less-5.38\obj\Debug\net6.0\ref\Less-5.38.dll

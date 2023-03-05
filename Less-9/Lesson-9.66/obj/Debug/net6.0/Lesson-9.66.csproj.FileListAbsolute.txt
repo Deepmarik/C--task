@@ -1,0 +1,15 @@
+W:\III-trimestre\C#-task\Less-9\Lesson-9.66\bin\Debug\net6.0\Lesson-9.66.exe
+W:\III-trimestre\C#-task\Less-9\Lesson-9.66\bin\Debug\net6.0\Lesson-9.66.deps.json
+W:\III-trimestre\C#-task\Less-9\Lesson-9.66\bin\Debug\net6.0\Lesson-9.66.runtimeconfig.json
+W:\III-trimestre\C#-task\Less-9\Lesson-9.66\bin\Debug\net6.0\Lesson-9.66.dll
+W:\III-trimestre\C#-task\Less-9\Lesson-9.66\bin\Debug\net6.0\Lesson-9.66.pdb
+W:\III-trimestre\C#-task\Less-9\Lesson-9.66\obj\Debug\net6.0\Lesson-9.66.csproj.AssemblyReference.cache
+W:\III-trimestre\C#-task\Less-9\Lesson-9.66\obj\Debug\net6.0\Lesson-9.66.GeneratedMSBuildEditorConfig.editorconfig
+W:\III-trimestre\C#-task\Less-9\Lesson-9.66\obj\Debug\net6.0\Lesson-9.66.AssemblyInfoInputs.cache
+W:\III-trimestre\C#-task\Less-9\Lesson-9.66\obj\Debug\net6.0\Lesson-9.66.AssemblyInfo.cs
+W:\III-trimestre\C#-task\Less-9\Lesson-9.66\obj\Debug\net6.0\Lesson-9.66.csproj.CoreCompileInputs.cache
+W:\III-trimestre\C#-task\Less-9\Lesson-9.66\obj\Debug\net6.0\Lesson-9.66.dll
+W:\III-trimestre\C#-task\Less-9\Lesson-9.66\obj\Debug\net6.0\refint\Lesson-9.66.dll
+W:\III-trimestre\C#-task\Less-9\Lesson-9.66\obj\Debug\net6.0\Lesson-9.66.pdb
+W:\III-trimestre\C#-task\Less-9\Lesson-9.66\obj\Debug\net6.0\Lesson-9.66.genruntimeconfig.cache
+W:\III-trimestre\C#-task\Less-9\Lesson-9.66\obj\Debug\net6.0\ref\Lesson-9.66.dll
